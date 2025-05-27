@@ -1,12 +1,10 @@
 <!DOCTYPE html>
-<html lang="es">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Realidad Aumentada - Reloj</title>
+    <title>Tu Proyecto de Realidad Aumentada</title>
 </head>
 <body>
-    <h1>Escanea el Código QR para ver la Realidad Aumentada</h1>
-    <img src="8bf2b66f18.svg" alt="QR para ver la RA" width="300">
+    <h1>Bienvenido a mi proyecto</h1>
+    <p>Escanea el código QR con tu dispositivo móvil para experimentar la realidad aumentada.</p>
 </body>
 </html>
